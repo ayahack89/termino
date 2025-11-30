@@ -42,5 +42,3 @@ Please go through each item and make sure these are all should be appropriate:
 
 Thanks again for contributing to Termino
 Let’s make terminal productivity better, one shortcut at a time.  
-
-— *Ayanabha Chatterjee*
